@@ -8,6 +8,6 @@
  
 ### Name: Qinyi Chen
 
-Statement: Due to the setting page of `cs107test` repo on codecov site went wrong, I set up a new repo to do the problem 5.
+Statement: Due to the setting page of `cs107test` repo on codecov site went irreversible error, I set up a new repo to do the problem 5.
 
 
